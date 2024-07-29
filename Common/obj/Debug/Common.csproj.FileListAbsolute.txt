@@ -1,0 +1,12 @@
+C:\Users\DELL\Downloads\GTX_STORE_WEB\Common\bin\Debug\Common.dll
+C:\Users\DELL\Downloads\GTX_STORE_WEB\Common\bin\Debug\Common.pdb
+C:\Users\DELL\Downloads\GTX_STORE_WEB\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\GTX_STORE_WEB\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\GTX_STORE_WEB\Common\obj\Debug\Common.dll
+C:\Users\DELL\Downloads\GTX_STORE_WEB\Common\obj\Debug\Common.pdb
+E:\HOC_TAP\HK5 2023-2024\Lập trình Web-Dot Net MVC\GTX_STORE_WEB\Common\bin\Debug\Common.dll
+E:\HOC_TAP\HK5 2023-2024\Lập trình Web-Dot Net MVC\GTX_STORE_WEB\Common\bin\Debug\Common.pdb
+E:\HOC_TAP\HK5 2023-2024\Lập trình Web-Dot Net MVC\GTX_STORE_WEB\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\HOC_TAP\HK5 2023-2024\Lập trình Web-Dot Net MVC\GTX_STORE_WEB\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\HOC_TAP\HK5 2023-2024\Lập trình Web-Dot Net MVC\GTX_STORE_WEB\Common\obj\Debug\Common.dll
+E:\HOC_TAP\HK5 2023-2024\Lập trình Web-Dot Net MVC\GTX_STORE_WEB\Common\obj\Debug\Common.pdb
